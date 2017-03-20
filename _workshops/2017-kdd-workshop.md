@@ -2,6 +2,7 @@
 layout: workshop
 conference-info: 2017 KDD
 title: Advancing Education with Data
+date: August 14, 2017
 permalink: /2017-kdd-workshop/
 ---
 
