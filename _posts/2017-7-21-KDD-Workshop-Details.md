@@ -14,8 +14,8 @@ Workshop Date: Aug 14, 2017 (Full Day)
 #### Session 1: Assessments
 
 |**8:30**| Invited talk 1: Neil Heffernan, Worcester Polytechnic Institute|
-|**9:00**| Talk 2: [Large-Scale and Interpretable Collaborative Filtering for Educational Data](http://ml4ed.cc/attachments/AulckStemming.pdf) |
-|**9:20**| Talk 3: Enriching Course-Specific Regression Models with Content Features for Grade Prediction |
+|**9:00**| Talk 2: [Large-Scale and Interpretable Collaborative Filtering for Educational Data](http://ml4ed.cc/attachments/LeeLargescale.pdf) |
+|**9:20**| Talk 3: [Enriching Course-Specific Regression Models with Content Features for Grade Prediction](http://ml4ed.cc/attachments/HuEnriching.pdf) |
 |**9:40**| Talk 4: Clustering LaTeX Solutions to Machine Learning Assignments for Rapid Assessment |
 |**10:00** &nbsp;&nbsp;&nbsp;| Coffee break |
 
@@ -23,23 +23,23 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 |**10:30**| Invited talk 5: Peter Brusilovsky, University of Pittsburgh
 |**11:00**| Organizer talk 6: Christopher Brinton, Zoomi Inc.
-|**11:20**| Talk 7: A Latent Factor Model for Instructor Content Preference Analysis
-|**11:40**| Talk 8: Transfer Learning for Education Data
+|**11:20**| Talk 7: [Predicting and Understanding Instructors' Content Preferences with Latent Factor Analysis](http://ml4ed.cc/attachments/WangPredicting.pdf)
+|**11:40**| Talk 8: [Transfer Learning for Education Data](http://ml4ed.cc/attachments/HuntTransfer.pdf)
 |**12:00** &nbsp;&nbsp;&nbsp;| Lunch break
 
 #### Session 3: Infrastructure for Personalized Learning
 
 |**13:30**| Invited talk 9: Elena Glassman, University of California, Berkeley
 |**14:00**| Organizer talk 10: Shivani Rao, LinkedIn
-|**14:20**| Talk 11: CollectiveTeach: A Platform for Integrating Web-based Educational Content into Lesson Plans
+|**14:20**| Talk 11: [CollectiveTeach: A Platform for Integrating Web-based Educational Content into Lesson Plans](http://ml4ed.cc/attachments/VenkataramanCollective.pdf)
 |**14:40**| Talk 12: Using Probabilistic Tag Modeling to Improve Recommendations
 |**15:00** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Coffee break
 
 #### Session 4: Lifelong Learning
 
 |**15:30**| Organizer talk 13: Alan Hickey, Coursera
-|**15:50**| Talk 14: Analyzing Game-Based Collaborative Problem Solving with Computational Psychometrics
-|**16:10**| Talk 15: STEM-ming the Tide: Predicting STEM Attrition using Student Transcript Data
+|**15:50**| Talk 14: [Analyzing Game-Based Collaborative Problem Solving with Computational Psychometrics](http://ml4ed.cc/attachments/PolyakComputational.pdf)
+|**16:10**| Talk 15: [STEM-ming the Tide: Predicting STEM Attrition using Student Transcript Data](http://ml4ed.cc/attachments/AulckStemming.pdf)
 |**16:30** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Concluding remarks
 
 
