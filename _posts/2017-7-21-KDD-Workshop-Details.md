@@ -14,7 +14,7 @@ Workshop Date: Aug 14, 2017 (Full Day)
 #### Session 1: Assessments
 
 |**8:30**| Invited talk 1: Neil Heffernan, Worcester Polytechnic Institute|
-|**9:00**| Talk 2: Large-Scale and Interpretable Collaborative Filtering for Educational Data |
+|**9:00**| Talk 2: [Large-Scale and Interpretable Collaborative Filtering for Educational Data](http://ml4ed.cc/attachments/AulckStemming.pdf) |
 |**9:20**| Talk 3: Enriching Course-Specific Regression Models with Content Features for Grade Prediction |
 |**9:40**| Talk 4: Clustering LaTeX Solutions to Machine Learning Assignments for Rapid Assessment |
 |**10:00** &nbsp;&nbsp;&nbsp;| Coffee break |
