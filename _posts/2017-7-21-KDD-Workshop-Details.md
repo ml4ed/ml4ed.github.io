@@ -13,10 +13,10 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 #### Session 1: Assessments
 
-|**8:30**| Invited talk 1: Neil Heffernan, Worcester Polytechnic Institute|
+|**8:30**| Invited talk 1: Elena Glassman, University of California, Berkeley |
 |**9:00**| Talk 2: [Large-Scale and Interpretable Collaborative Filtering for Educational Data](http://ml4ed.cc/attachments/LeeLargescale.pdf) |
 |**9:20**| Talk 3: [Enriching Course-Specific Regression Models with Content Features for Grade Prediction](http://ml4ed.cc/attachments/HuEnriching.pdf) |
-|**9:40**| Talk 4: Clustering LaTeX Solutions to Machine Learning Assignments for Rapid Assessment |
+|**9:40**| Invited Talk 4: Christoph Studer, Cornell University |
 |**10:00** &nbsp;&nbsp;&nbsp;| Coffee break |
 
 #### Session 2: Learning Analytics and Personalization
@@ -29,17 +29,16 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 #### Session 3: Infrastructure for Personalized Learning
 
-|**13:30**| Invited talk 9: Elena Glassman, University of California, Berkeley
-|**14:00**| Organizer talk 10: Shivani Rao, LinkedIn
-|**14:20**| Talk 11: [CollectiveTeach: A Platform for Integrating Web-based Educational Content into Lesson Plans](http://ml4ed.cc/attachments/VenkataramanCollective.pdf)
-|**14:40**| Talk 12: Using Probabilistic Tag Modeling to Improve Recommendations
+|**14:00**| Organizer talk 9: Shivani Rao, LinkedIn
+|**14:20**| Talk 10: [CollectiveTeach: A Platform for Integrating Web-based Educational Content into Lesson Plans](http://ml4ed.cc/attachments/VenkataramanCollective.pdf)
+|**14:40**| Talk 11: Using Probabilistic Tag Modeling to Improve Recommendations
 |**15:00** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Coffee break
 
 #### Session 4: Lifelong Learning
 
-|**15:30**| Organizer talk 13: Alan Hickey, Coursera
-|**15:50**| Talk 14: [Analyzing Game-Based Collaborative Problem Solving with Computational Psychometrics](http://ml4ed.cc/attachments/PolyakComputational.pdf)
-|**16:10**| Talk 15: [STEM-ming the Tide: Predicting STEM Attrition using Student Transcript Data](http://ml4ed.cc/attachments/AulckStemming.pdf)
+|**15:30**| Organizer talk 12: Alan Hickey, Coursera
+|**15:50**| Talk 13: [Analyzing Game-Based Collaborative Problem Solving with Computational Psychometrics](http://ml4ed.cc/attachments/PolyakComputational.pdf)
+|**16:10**| Talk 14: [STEM-ming the Tide: Predicting STEM Attrition using Student Transcript Data](http://ml4ed.cc/attachments/AulckStemming.pdf)
 |**16:30** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Concluding remarks
 
 
