@@ -9,19 +9,19 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 #### Opening
 
-|**8:20** &nbsp;&nbsp;&nbsp;&nbsp;| Opening remarks and logistics  |
+|**8:20** &nbsp;&nbsp;&nbsp;| Opening remarks and logistics
 
 #### Session 1: Assessments
 
-|**8:30**| Invited talk 1: Elena Glassman, University of California, Berkeley |
+|**8:30**| Invited talk 1: Elena Glassman, University of California, Berkeley
 
-|**9:00**| Talk 2: [Large-Scale and Interpretable Collaborative Filtering for Educational Data](http://ml4ed.cc/attachments/LeeLargescale.pdf) |
+|**9:00**| Talk 2: [Large-Scale and Interpretable Collaborative Filtering for Educational Data](http://ml4ed.cc/attachments/LeeLargescale.pdf)
 
-|**9:20**| Talk 3: [Enriching Course-Specific Regression Models with Content Features for Grade Prediction](http://ml4ed.cc/attachments/HuEnriching.pdf) |
+|**9:20**| Talk 3: [Enriching Course-Specific Regression Models with Content Features for Grade Prediction](http://ml4ed.cc/attachments/HuEnriching.pdf)
 
-|**9:40**| Invited Talk 4: Christoph Studer, Cornell University |
+|**9:40**| Invited Talk 4: Christoph Studer, Cornell University
 
-|**10:00** &nbsp;&nbsp;&nbsp;| Coffee break |
+|**10:00** &nbsp;&nbsp;&nbsp;| Coffee break
 
 #### Session 2: Learning Analytics and Personalization
 
@@ -43,7 +43,7 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 |**14:40**| Talk 11: Using Probabilistic Tag Modeling to Improve Recommendations
 
-|**15:00** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Coffee break
+|**15:00** &nbsp;&nbsp;&nbsp;| Coffee break
 
 #### Session 4: Lifelong Learning
 
@@ -53,7 +53,7 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 |**16:10**| Talk 14: [STEM-ming the Tide: Predicting STEM Attrition using Student Transcript Data](http://ml4ed.cc/attachments/AulckStemming.pdf)
 
-|**16:30** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Concluding remarks
+|**16:30** &nbsp;&nbsp;&nbsp;| Concluding remarks
 
 
 
