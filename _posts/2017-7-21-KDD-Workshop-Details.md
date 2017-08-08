@@ -19,7 +19,7 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 |**9:20**| Talk 3: [Enriching Course-Specific Regression Models with Content Features for Grade Prediction](http://ml4ed.cc/attachments/HuEnriching.pdf)
 
-|**9:40**| Invited Talk 4: Christoph Studer, Cornell University
+|**9:40**| Organizer talk 4: Andrew Lan, Princeton University
 
 |**10:00**| Coffee break
 
