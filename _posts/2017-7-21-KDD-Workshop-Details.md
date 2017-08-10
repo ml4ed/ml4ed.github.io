@@ -13,7 +13,7 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 #### Session 1: Assessments
 
-|**8:30**| Invited talk 1: Elena Glassman, University of California, Berkeley
+|**8:30**| Invited talk 1: Elena Glassman, University of California, Berkeley: [Human-Centered Clustering and Visualizations of Student Code for Personalized Feedback at Scale](http://ml4ed.cc/attachments/Glassman_Abstract.pdf)
 
 |**9:00**| Talk 2: [Large-Scale and Interpretable Collaborative Filtering for Educational Data](http://ml4ed.cc/attachments/LeeLargescale.pdf)
 
@@ -25,9 +25,9 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 #### Session 2: Learning Analytics and Personalization
 
-|**10:30**| Invited talk 5: [Peter Brusilovsky, University of Pittsburgh: From Expert-Driven to Data-Driven Adaptive Learning](http://ml4ed.cc/attachments/Brusilovsky_Abstract.pdf)
+|**10:30**| Invited talk 5: Peter Brusilovsky, University of Pittsburgh: [From Expert-Driven to Data-Driven Adaptive Learning](http://ml4ed.cc/attachments/Brusilovsky_Abstract.pdf)
 
-|**11:00**| Organizer talk 6: Christopher Brinton, Zoomi Inc.
+|**11:00**| Organizer talk 6: Christopher G. Brinton, Zoomi Inc.
 
 |**11:20**| Talk 7: [Predicting and Understanding Instructors' Content Preferences with Latent Factor Analysis](http://ml4ed.cc/attachments/WangPredicting.pdf)
 
