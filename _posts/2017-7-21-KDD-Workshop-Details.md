@@ -3,7 +3,7 @@ layout: post
 title: 2017 KDD Workshop Schedule
 ---
 
-The workshop schedule has been posted, and we look forward to meeting you in Halifax!
+Here is the final workshop schedule. We look forward to meeting you in Halifax!
 
 Workshop Date: Aug 14, 2017 (Full Day)
 
