@@ -25,7 +25,7 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 #### Session 2: Learning Analytics and Personalization
 
-|**10:30**| Invited talk 5: Peter Brusilovsky, University of Pittsburgh
+|**10:30**| Invited talk 5: [Peter Brusilovsky, University of Pittsburgh: From Expert-Driven to Data-Driven Adaptive Learning](http://ml4ed.cc/attachments/Brusilovsky_Abstract.pdf)
 
 |**11:00**| Organizer talk 6: Christopher Brinton, Zoomi Inc.
 
