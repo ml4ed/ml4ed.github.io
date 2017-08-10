@@ -41,7 +41,7 @@ Workshop Date: Aug 14, 2017 (Full Day)
 
 |**14:20**| Talk 10: [CollectiveTeach: A Platform for Integrating Web-based Educational Content into Lesson Plans](http://ml4ed.cc/attachments/VenkataramanCollective.pdf)
 
-|**14:40**| Talk 11: Using Probabilistic Tag Modeling to Improve Recommendations
+|**14:40**| Talk 11: [Using Probabilistic Tag Modeling to Improve Recommendations](http://ml4ed.cc/attachments/GokkayaUsing.pdf)
 
 |**15:00**| Coffee break
 
