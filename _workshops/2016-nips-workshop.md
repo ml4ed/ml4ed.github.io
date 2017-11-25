@@ -80,8 +80,8 @@ This workshop will lead to new research directions in machine learning-driven ed
 
 Ciara Pike-Burke and Steffen Grunewalder, Lancaster University -- [Optimistic planning for question selection](http://ml4ed.cc/attachments/CiaraOptimistic.pdf)
 
-Rianne Conijn, Ad Kleingeld, Uwe Matzat, Chris Snijders, and Menno van Zaanen, Tilburg University and Eindhoven University of Technology -- [Influence of course characteristics, student characteristics, and behavior in learning management systems on student performance](http://ml4ed.cc/attachments/ConjinInfluence.pdf)
+Rianne Conijn, Ad Kleingeld, Uwe Matzat, Chris Snijders, and Menno van Zaanen, Tilburg University and Eindhoven University of Technology -- [Influence of course characteristics, student characteristics, and behavior in learning management systems on student performance](http://ml4ed.cc/attachments/ConijnInfluence.pdf)
 
 Jorge Diez, Oscar Luaces, and Antonio Bahamonde, Universidad de Oviedo -- [Feedback in Peer Assessment for Open-Response Assignments Using a Multitask Factorization Approach](http://ml4ed.cc/attachments/DiezFeedback.pdf)
 
-Steve Ritter, Stephen E. Fancsali, Michael Yudelson, Vasile Rus, and Susan Berman, Carnegie Learning, Inc., University of Memphis, and Carnegie Mellon University -- [Toward Intelligent Instructional Handoffs Between Humans and Machines](http://ml4ed.cc/attachments/RitterTowards.pdf)
+Steve Ritter, Stephen E. Fancsali, Michael Yudelson, Vasile Rus, and Susan Berman, Carnegie Learning, Inc., University of Memphis, and Carnegie Mellon University -- [Toward Intelligent Instructional Handoffs Between Humans and Machines](http://ml4ed.cc/attachments/Rittertowards.pdf)
