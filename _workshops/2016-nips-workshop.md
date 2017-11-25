@@ -62,7 +62,7 @@ This workshop will lead to new research directions in machine learning-driven ed
 	
 02:30 PM 	Anna Rafferty, Carleton College -- [Using Computational Methods to Improve Feedback for Learners](http://ml4ed.cc/attachments/RaffertyUsing.pdf)
 	
-02:55 PM 	Michael Mozer, CU Boulder -- [Estimating student proficiency: Deep learning is not the panacea](http://ml4ed.cc/attachments/WilsonEstimating.pptx)
+02:55 PM 	Michael Mozer, CU Boulder -- [Estimating student proficiency: Deep learning is not the panacea](http://ml4ed.cc/attachments/WilsonEstimating.pdf)
 	
 03:20 PM 	Yan Karklin, Knewton -- [Modeling skill interactions with multilayer item response functions](http://ml4ed.cc/attachments/KarklinMultilayer.pdf)
 	
