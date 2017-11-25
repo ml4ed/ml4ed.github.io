@@ -58,3 +58,81 @@ Questions about the workshop can be sent to the same e-mail address.
 * Final workshop schedule: May 25, 2015
 * Workshop: July 10, 2015
 
+### SCHEDULE
+
+8:30--8:35   Opening remarks -- Workshop organizers
+
+Session 1
+=====================
+8:35--9:00   Talk 1: Mihaela van der Schaar, UCLA
+One Teacher for Every Student: Personalizing Education
+9:00--9:25   Talk 2: Andrew Lan, Rice University
+Modeling Student Responses Using the Dealbreaker Model
+9:25--9:50   Talk 3: Siddharth Reddy, Cornell University
+Learning Representations of Student Knowledge and Educational Content
+9:50--10:10   Talk 4: Mehdi Sajjadi, University of Hamburg
+Peer Grading in a Course on Algorithms and Data Structures: Machine Learning Algorithms do not Improve over Simple Baselines
+
+10:10--10:30   Coffee Break
+
+Session 2
+=====================
+10:30--10:55   Invited talk 5: Mykola Pechenizkiy, Eindhoven University of Technology
+Grand challenges in Educational Data Mining
+10:55--11:20   Invited talk 6: Jerry Zhu, University of Wisconsin Madison
+Machine Teaching
+11:20--11:45   Invited talk 7: Piyush Rai, Duke University
+Scalable Bayesian Latent Factor Models for Binary Matrices and Tensors
+11:45--12:10   Invited talk 8: Zoran Popovic, University of Washington
+Generative Optimization of the Learning Ecosystem
+12:10--12:15   Poster Spotlight
+
+12:10--14:00   Lunch Break
+
+Session P: Poster Session
+=====================
+14:00--14:30   Poster Session
+
+Session 3
+=====================
+14:30--14:55   Invited talk 9: Mehran Sahami, Stanford University
+Statistical Modeling to Understand the Dynamics of Student Populations
+14:55--15:20   Invited talk 10: Igor Labutov, Cornell University
+Curriculum Mining: Towards Connecting Resources that Explain
+15:20--15:45   Invited talk 11: Burr Settles, Duolingo
+Machine Learning for Spaced Repetition and Variable Rewards
+15:45--16:10   Invited talk 12: Jacob Whitehill, HarvardX
+Automatic Recognition of Student (Dis)engagement
+
+16:10--16:30   Coffee Break
+
+Session 4
+=====================
+16:30--16:55   Invited talk 13: Alina von Davier, ETS
+Virtual & Collaborative Assessments: Examples, Implications and Challenges for Educational Measurement
+16:55--17:20   Invited talk 14: Joseph Jay Williams, HarvardX
+MOOClets: An Abstraction and API for Machine Learning Research to Optimize and Personalize Users’ Interactions with Large-scale Online Technologies
+17:20--17:45   Invited talk 15: Chris Piech, Stanford University
+Deep Knowledge Tracing
+
+17:45--18:00   General discussion and closing remarks
+
+### POSTERS
+
+[What do We Know about MOOC Students Caring More about Content than Platform? - One Step toward Defining MOOC Learner Success](http://ml4ed.cc/attachments/WangWhat.pdf)
+Yuan Wang, Columbia University
+
+[T-SKIRT: Online Estimation of Student Proficiency in an Adaptive Learning System](http://ml4ed.cc/attachments/EkanadhamTSKIRT.pdf)
+Chaitu Ekanadham, Yan Karklin, Knewton
+
+[Learning Representations of Student Knowledge and Educational Content](http://ml4ed.cc/attachments/ReddyLearning.pdf)
+Siddharth Reddy, Igor Labutov, Thorsten Joachims, Cornell University
+
+[Learning Models for Personalized Educational Feedback and Job Selection](http://ml4ed.cc/attachments/ShashidharLearning.pdf)
+Vinay Shashidhar, Shashank Srikant, Varun Aggarwal, Aspiring Minds
+
+[The Leopard Framework: Towards Understanding Educational Technology Interventions with a Pareto Efficiency Perspective](http://ml4ed.cc/attachments/JoseLeopard.pdf)
+Jose Gonzalez-Brenes, Pearson, Yun Huang, University of Pittsburgh
+
+[Tensor Factorization for Student Modeling and Performance Prediction in Unstructured Domain](http://ml4ed.cc/attachments/SahebiTensor.pdf)
+Shaghayegh Sahebi, Yu-Ru Lin, Peter Brusilovsky, University of Pittsburgh
