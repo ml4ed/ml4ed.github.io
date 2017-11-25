@@ -50,7 +50,7 @@ This workshop will lead to new research directions in machine learning-driven ed
 	
 10:40 AM 	Zhenghao Chen, Coursera -- Machine Learning Challenges and Opportunities in MOOCs
 	
-11:00 AM 	Lise Getoor, UC Santa Cruz -- [Understanding Engagement and Sentiment in MOOCs using Probabilistic Soft Logic (PSL)](GetoorUnderstanding.pdf)
+11:00 AM 	Lise Getoor, UC Santa Cruz -- [Understanding Engagement and Sentiment in MOOCs using Probabilistic Soft Logic (PSL)](http://ml4ed.cc/attachments/GetoorUnderstanding.pdf)
 	
 11:25 AM 	Kangwook Lee, KAIST -- [Machine Learning Approaches for Learning Analytics: Collaborative Filtering Or Regression With Experts?](http://ml4ed.cc/attachments/LeeLCCS.pdf)
 	
