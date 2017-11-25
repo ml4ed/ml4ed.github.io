@@ -40,19 +40,19 @@ This workshop will lead to new research directions in machine learning-driven ed
 
 08:30 AM 	Opening remarks
 	
-08:40 AM 	Phil Grimaldi, OpenStax/Rice University -- BLAh: Boolean Logic Analysis for Graded Student Response Data
+08:40 AM 	Phil Grimaldi, OpenStax/Rice University -- [BLAh: Boolean Logic Analysis for Graded Student Response Data](http://ml4ed.cc/attachments/LanBoolean.pptx)
 	
-09:00 AM 	Steve Ritter, Carnegie Learning -- Eliminating testing through continuous assessment
+09:00 AM 	Steve Ritter, Carnegie Learning -- [Eliminating testing through continuous assessment](http://ml4ed.cc/attachments/RitterEliminating.pptx)
 	
-09:25 AM 	Pieter Abbeel, UC Berkeley -- Gradescope -- AI for Grading
+09:25 AM 	Pieter Abbeel, UC Berkeley -- [Gradescope -- AI for Grading](http://ml4ed.cc/attachments/AbbeelGradescope.pdf)
 	
-09:50 AM 	Mihaela van der Schaar, UCLA -- A Machine Learning Approach to Personalizing Education: Improving Individual Learning through Tracking and Course Recommendation
+09:50 AM 	Mihaela van der Schaar, UCLA -- [A Machine Learning Approach to Personalizing Education: Improving Individual Learning through Tracking and Course Recommendation](http://ml4ed.cc/attachments/MihaelaImproving.pdf)
 	
 10:40 AM 	Zhenghao Chen, Coursera -- Machine Learning Challenges and Opportunities in MOOCs
 	
-11:00 AM 	Lise Getoor, UC Santa Cruz -- Understanding Engagement and Sentiment in MOOCs using Probabilistic Soft Logic (PSL)
+11:00 AM 	Lise Getoor, UC Santa Cruz -- [Understanding Engagement and Sentiment in MOOCs using Probabilistic Soft Logic (PSL)](GetoorUnderstanding.pdf)
 	
-11:25 AM 	Kangwook Lee, KAIST -- Machine Learning Approaches for Learning Analytics: Collaborative Filtering Or Regression With Experts?
+11:25 AM 	Kangwook Lee, KAIST -- [Machine Learning Approaches for Learning Analytics: Collaborative Filtering Or Regression With Experts?](http://ml4ed.cc/attachments/LeeLCCS.pdf)
 	
 11:50 AM 	Poster spotlight
 	
@@ -60,17 +60,17 @@ This workshop will lead to new research directions in machine learning-driven ed
 	
 02:00 PM 	Poster session
 	
-02:30 PM 	Anna Rafferty, Carleton College -- Using Computational Methods to Improve Feedback for Learners
+02:30 PM 	Anna Rafferty, Carleton College -- [Using Computational Methods to Improve Feedback for Learners](http://ml4ed.cc/attachments/RaffertyUsing.pdf)
 	
-02:55 PM 	Michael Mozer, CU Boulder -- Estimating student proficiency: Deep learning is not the panacea
+02:55 PM 	Michael Mozer, CU Boulder -- [Estimating student proficiency: Deep learning is not the panacea](http://ml4ed.cc/attachments/WilsonEstimating.pptx)
 	
-03:20 PM 	Yan Karklin, Knewton -- Modeling skill interactions with multilayer item response functions
+03:20 PM 	Yan Karklin, Knewton -- [Modeling skill interactions with multilayer item response functions](http://ml4ed.cc/attachments/KarklinMultilayer.pdf)
 	
 03:45 PM 	Coffee break
 	
-04:10 PM 	Utkarsh Upadhyay, MPI-SWS -- On Crowdlearning: How do People Learn in the Wild?
+04:10 PM 	Utkarsh Upadhyay, MPI-SWS -- [On Crowdlearning: How do People Learn in the Wild?](http://ml4ed.cc/attachments/UtkarshCrowdlearning.pdf)
 	
-04:35 PM 	Christopher Brinton, Zoomi -- Beyond Assessment Scores: How Behavior Can Give Insight into Knowledge Transfer
+04:35 PM 	Christopher Brinton, Zoomi -- [Beyond Assessment Scores: How Behavior Can Give Insight into Knowledge Transfer](http://ml4ed.cc/attachments/BrintonBeyond.pptx)
 	
 05:00 PM 	Emma Brunskill, CMU -- Using Old Data To Yield Better Personalized Tutoring Systems
 	
