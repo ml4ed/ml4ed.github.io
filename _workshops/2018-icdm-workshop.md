@@ -6,11 +6,17 @@ date: November 17, 2018
 permalink: /2018-icdm-workshop/
 ---
 
+### Overview
+
 A multitude of electronic learning (eLearning) providers have emerged over the past 15 years, offering online courses from K-12 to corporate training learning scenarios. Platforms such as Massive Open Online Courses (MOOCs) have demonstrated the ability to scale up online learning to massive audiences. For all of its benefits, however, critics of eLearning have pointed to generally lower engagement, knowledge transfer, and other metrics of quality relative to the traditional classroom, in part due to its one-size-fits-all nature of content delivery.
 
 The widespread use of eLearning platforms has generated a plethora of data on learner interactions, including content clickstream measurements, discussion forum posts, and assessment question responses. The availability of such data presents novel opportunities to develop models for the process of (human) learning, and to use such models in the development of data-driven eLearning systems that will personalize the learning experience for each individual. Recent explorations, for example, have identified statistical patterns in behavioral interactions associated with learning outcomes, developed algorithms for tracing learner knowledge throughout courses, and built systems to dynamically modify eLearning content based on inferred knowledge states. Initial trials have demonstrated improvements in learning outcomes that have the potential to scale.
 
-This workshop aims to bring together researchers, software engineers, educators, and others conducting cutting-edge work on data-driven personalization of eLearning. Paper submissions on all areas of data mining for learning/education, including assessments, learning analytics, and infrastructure are welcome, and those with a focus on personalization systems are particularly encouraged. Specific topics of interest include, but are not limited to:
+The 2018 ICDM Workshop on Data Mining for eLearning Personalization (DEEP) aims to bring together researchers, software engineers, educators, and others conducting cutting-edge work on data-driven personalization of eLearning. Between the presentations of accepted papers and invited talks from thought leaders in both industry and academia, this workshop will inspire new ideas for innovation in eLearning and data mining.
+
+### Call for papers
+
+Paper submissions on all areas of data mining for learning/education, including assessments, learning analytics, and infrastructure are welcome, and those with a focus on personalization systems are particularly encouraged. Specific topics of interest include, but are not limited to:
 *	Reinforcement-learning-based personalization algorithms
 *	Trials for demonstrating efficacy of personalization for learners and/or instructors
 *	Mining relationships between learning behavior, performance, and content
@@ -20,9 +26,8 @@ This workshop aims to bring together researchers, software engineers, educators,
 *	Learning analytics with actionable intelligence for instructors
 *	Social learning networks
 
-The deadline for paper submissions is <b>August 7, 2018</b>, at 11:59pm PST.
+Per ICDM policy, the deadline for paper submissions is <b>August 7, 2018</b> at 11:59pm PST.
 
-Between the presentations of accepted papers and invited talks from thought leaders in both industry and academia, this workshop will inspire new ideas for innovation in eLearning and data mining.
 
 ### ORGANIZERS
 
