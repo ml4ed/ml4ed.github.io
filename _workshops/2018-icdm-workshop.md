@@ -26,7 +26,7 @@ Paper submissions on all areas of data mining for learning/education, including 
 *	Learning analytics with actionable intelligence for instructors
 *	Social learning networks
 
-Per ICDM policy, papers should be submitted at [this portal](https://www.wi-lab.com/cyberchair/2018/icdm18/scripts/submit.php?subarea=S13&undisplay_detail=1&wh=/cyberchair/2018/icdm18/scripts/ws_submit.php) no later than August 7, 2018 at 11:59pm PST. All submissions must:
+Per ICDM policy, papers should be submitted at [this portal](https://www.wi-lab.com/cyberchair/2018/icdm18/scripts/submit.php?subarea=S13&undisplay_detail=1&wh=/cyberchair/2018/icdm18/scripts/ws_submit.php) no later than August 10, 2018 at 11:59pm PST. All submissions must:
 *	be between four (4) and eight (8) pages, including the bibliography and any appendices,
 *	use the [IEEE 2-column format](https://www.ieee.org/conferences/publishing/templates.html),
 *	be original, previously unpublished work, and
