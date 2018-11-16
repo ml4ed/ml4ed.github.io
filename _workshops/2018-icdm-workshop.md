@@ -17,7 +17,7 @@ Congratulations to all accepted papers! Here is the program of paper presentatio
 
 * 09:10 AM: *End-to-End Deep Knowledge Tracing by Learning Binary Question-Embedding* by Hiromi Nakagawa, Yusuke Iwasawa, and Yutaka Matsuo
 
-* 09:35 AM: *Neural Educational Recommendation Engine (NERE)* by Moin Nadeem, Shane Mooney, and Dustin Stansbury
+* 09:35 AM: *Detecting Student at Risk of Failure: A Case Study of Conceptualizing Mining from Internet Access Log Files* by Ruangsak Trakunphutthirak, Yen Cheung, and Vincent Lee
 
 * 10:00 AM: Coffee break
 
@@ -27,7 +27,7 @@ Congratulations to all accepted papers! Here is the program of paper presentatio
 
 * 11:10 AM: *Human-assisted Computation for Auto-Grading* by Lin Ling and Chee Wei Tan
 
-* 11:35 AM: *Detecting Student at Risk of Failure: A Case Study of Conceptualizing Mining from Internet Access Log Files* by Ruangsak Trakunphutthirak, Yen Cheung, and Vincent Lee
+* 11:35 AM: *Neural Educational Recommendation Engine (NERE)* by Moin Nadeem, Shane Mooney, and Dustin Stansbury
 
 * 12:00 PM: Organizer Closing Remarks
 
