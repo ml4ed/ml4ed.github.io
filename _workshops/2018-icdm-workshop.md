@@ -31,7 +31,7 @@ Congratulations to all accepted papers! Here is the program of paper presentatio
 
 * 12:00 PM: Organizer Closing Remarks
 
-See you in Singapore!
+The workshop will be held in **Pisces 2**. See you in Singapore!
 
 
 
