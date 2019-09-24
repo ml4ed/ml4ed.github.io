@@ -149,3 +149,6 @@ Jose Gonzalez-Brenes, Pearson, Yun Huang, University of Pittsburgh
 
 [Tensor Factorization for Student Modeling and Performance Prediction in Unstructured Domain](http://ml4ed.cc/attachments/SahebiTensor.pdf)
 Shaghayegh Sahebi, Yu-Ru Lin, Peter Brusilovsky, University of Pittsburgh
+
+[Scaling cognitive modeling to massive open environments](http://ml4ed.cc/attachments/XuY.pdf)
+Yanbo Xu, Matthew Johnson, Zachary Pardos, University of California Berkeley
